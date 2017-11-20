@@ -108,7 +108,7 @@ class DefaultMockService extends MockService {
    }
  } 
  ```
- `startAndSupervise` method stars the given environment and waits for the Actor Systeme to be terminated, when it terminates,
+ `startAndSupervise` method starts the given environment and waits for the Actor System to be terminated, when it terminates,
  it will start the environment again and again...
  
  
